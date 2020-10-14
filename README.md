@@ -1,7 +1,7 @@
 Run below command in EC2 instance terminal. It is assumed that we have linux EC2
 instance.
 
-**1.** Install go.
+**1.** Install go using below two sub-steps.
 
 wget -P /tmp https://golang.org/dl/go1.15.2.linux-amd64.tar.gz
 
